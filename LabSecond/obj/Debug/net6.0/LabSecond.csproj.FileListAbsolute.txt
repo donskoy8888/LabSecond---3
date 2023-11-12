@@ -1,0 +1,14 @@
+D:\codes\work\first\LabSecond\LabSecond\bin\Debug\net6.0\LabSecond.exe
+D:\codes\work\first\LabSecond\LabSecond\bin\Debug\net6.0\LabSecond.deps.json
+D:\codes\work\first\LabSecond\LabSecond\bin\Debug\net6.0\LabSecond.runtimeconfig.json
+D:\codes\work\first\LabSecond\LabSecond\bin\Debug\net6.0\LabSecond.dll
+D:\codes\work\first\LabSecond\LabSecond\bin\Debug\net6.0\LabSecond.pdb
+D:\codes\work\first\LabSecond\LabSecond\obj\Debug\net6.0\LabSecond.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\work\first\LabSecond\LabSecond\obj\Debug\net6.0\LabSecond.AssemblyInfoInputs.cache
+D:\codes\work\first\LabSecond\LabSecond\obj\Debug\net6.0\LabSecond.AssemblyInfo.cs
+D:\codes\work\first\LabSecond\LabSecond\obj\Debug\net6.0\LabSecond.csproj.CoreCompileInputs.cache
+D:\codes\work\first\LabSecond\LabSecond\obj\Debug\net6.0\LabSecond.dll
+D:\codes\work\first\LabSecond\LabSecond\obj\Debug\net6.0\refint\LabSecond.dll
+D:\codes\work\first\LabSecond\LabSecond\obj\Debug\net6.0\LabSecond.pdb
+D:\codes\work\first\LabSecond\LabSecond\obj\Debug\net6.0\LabSecond.genruntimeconfig.cache
+D:\codes\work\first\LabSecond\LabSecond\obj\Debug\net6.0\ref\LabSecond.dll

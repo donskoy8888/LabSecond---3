@@ -1,0 +1,14 @@
+D:\codes\work\first\LabSecond\PointAndFigure\bin\Debug\net6.0\PointAndFigure.exe
+D:\codes\work\first\LabSecond\PointAndFigure\bin\Debug\net6.0\PointAndFigure.deps.json
+D:\codes\work\first\LabSecond\PointAndFigure\bin\Debug\net6.0\PointAndFigure.runtimeconfig.json
+D:\codes\work\first\LabSecond\PointAndFigure\bin\Debug\net6.0\PointAndFigure.dll
+D:\codes\work\first\LabSecond\PointAndFigure\bin\Debug\net6.0\PointAndFigure.pdb
+D:\codes\work\first\LabSecond\PointAndFigure\obj\Debug\net6.0\PointAndFigure.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\work\first\LabSecond\PointAndFigure\obj\Debug\net6.0\PointAndFigure.AssemblyInfoInputs.cache
+D:\codes\work\first\LabSecond\PointAndFigure\obj\Debug\net6.0\PointAndFigure.AssemblyInfo.cs
+D:\codes\work\first\LabSecond\PointAndFigure\obj\Debug\net6.0\PointAndFigure.csproj.CoreCompileInputs.cache
+D:\codes\work\first\LabSecond\PointAndFigure\obj\Debug\net6.0\PointAndFigure.dll
+D:\codes\work\first\LabSecond\PointAndFigure\obj\Debug\net6.0\refint\PointAndFigure.dll
+D:\codes\work\first\LabSecond\PointAndFigure\obj\Debug\net6.0\PointAndFigure.pdb
+D:\codes\work\first\LabSecond\PointAndFigure\obj\Debug\net6.0\PointAndFigure.genruntimeconfig.cache
+D:\codes\work\first\LabSecond\PointAndFigure\obj\Debug\net6.0\ref\PointAndFigure.dll
